@@ -1,0 +1,18 @@
+{
+  "name": "janareznikova.cz-theme",
+  "version": "1.0.0",
+  "description": "Wordpress theme for site janareznikova.cz",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ondrej-langr/janareznikova.cz-theme.git"
+  },
+  "author": "Ondřej Langr <hi@ondrejlangr.cz>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ondrej-langr/janareznikova.cz-theme/issues"
+  },
+  "homepage": "https://github.com/ondrej-langr/janareznikova.cz-theme#readme"
+}
